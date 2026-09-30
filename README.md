@@ -5,13 +5,13 @@ Basics of programming assignment 5
 
 Fill here:
 
-- Name
-- Group
-
+- Name: Fardush Bappy.
+- Group: A
+ 
 ## Description of the project
 
-Write the description of the project here.
+This project is FoCar. Where we create a FoCar that can control by using programming. We are able to change direction go forward backward and turn the FoCar.
 
 ## User instruction
 
-Write the user instructions here.
+User can  use the Focar by having the program in their device. After installing and setup all the necessary program in the devce finally they can connect the FoCar with the can and it will start automatically.
